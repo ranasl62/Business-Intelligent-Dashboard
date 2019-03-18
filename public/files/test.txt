@@ -1,0 +1,1 @@
+here store the .docs and .xlxs file are store and after insert into database file will remove from here.
